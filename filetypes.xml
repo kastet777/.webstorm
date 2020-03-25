@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".docker.server.env" type="PLAIN_TEXT" />
+      <mapping pattern=".docker-compose-remote-opts" type="PLAIN_TEXT" />
       <mapping pattern="SignUpForm" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".docker.client.certs.env" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".docker-compose-remote-opts" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="TextInput" type="PLAIN_TEXT" />
       <mapping pattern=".copy.restart.docker.remote.env" type="PLAIN_TEXT" />
